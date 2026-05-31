@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentuerify",
+        "uuid": 1834470,
+        "checksum": "hj7dyr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
